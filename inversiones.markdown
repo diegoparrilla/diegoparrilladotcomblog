@@ -59,3 +59,13 @@ Además de la inversión mi intención siempre es participar como asesor para ay
 - Interim Product Manager.
 
 En definitiva, un Business Angel "que se moje". No estoy en el día a día, pero dedico esfuerzo y dedicación para tratar de ayudar a que la empresa salga adelante. ¿Has visto "Pulp Fiction"? ¿Sabes quién es el "[Señor Lobo](https://www.youtube.com/watch?v=rBYPNdOfcO0)"? Pues eso...
+
+## Empresas en las que he invertido
+
+|Empresa   |Descripción|Ronda|Exit?|
+|---|---|---|---|
+|[Amplía Soluciones](https://www.amplia-iiot.com)|IoT industrial|Semilla-2003|No|
+|[Abiquo](https://www.abiquo.com/)|IaaS Management|Semilla-2008|Sí - 2011 (Participaciones vendidas al fondo)|
+|[StackOps](https://loogic.com/14619/)|IaaS platform|Semilla-2011|No - 2017 (Liquidación)|
+|[Apility.io](https://www.geekwire.com/2020/auth0-makes-first-ever-acquisition-launch-new-tools-protect-automated-cyberattacks/)|Cybersecurity platform|Semilla-2017|Sí - 2019 (100% empresa adquirida por [Auth0](https://auth0.com))|
+|[JOTELULU](https://jotelulu.com/)|Desktop as a Service|Sweat equity - 2021|No|

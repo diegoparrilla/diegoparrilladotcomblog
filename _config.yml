@@ -29,7 +29,7 @@ permalink:        /:year/:month/:day/:title/
 
 twitter_username: nubeblog
 github_username:  diegoparrilla
-linkedin: diegoparrilla
+linkedin_username: diegoparrilla
 
 # Build settings
 theme: minima
