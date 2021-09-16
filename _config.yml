@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Memorias de un emprendedor en solitario
+title: Memorias de un solopreneur
 email: hello  AT diegoparrilla.com
 description: >- # this means to ignore newlines until "baseurl:"
-  La gente me dice que me pasan cosas raras. Puede ser. Pero yo creo que se debe a que hago muchas cosas. 
-  Y quiero tener un sitio donde contarlas. Hago muchas cosas, y me suelen funcionar cuando las hago en
-  solitario. Pásate por aquí de vez en cuando para conocerlas.
+  La gente me dice que me pasan cosas raras. Puede ser. Igual es porque hago muchas, 
+  y suelen funcionar cuando las hago en solitario. Quería tener un sitio donde contarlas. Pásate por aquí de vez en cuando para conocerlas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diegoparrilla.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink:        /:year/:month/:day/:title/
@@ -38,6 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -58,3 +58,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll_admin:
+  hidden_links:
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "posts"
+
+#jekyll_analytics:
+#  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+#    id: UA-123-456          # Required - replace with your tracking id
+#    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
