@@ -21,11 +21,11 @@
 title: Memorias de un solopreneur
 email: hello  AT diegoparrilla.com
 description: >- # this means to ignore newlines until "baseurl:"
-  La gente me dice que me pasan cosas raras. Puede ser. Igual es porque hago muchas, 
-  y suelen funcionar cuando las hago en solitario. Quería tener un sitio donde contarlas. Pásate por aquí de vez en cuando para conocerlas.
+  Dicen que me pasan muchas cosas. Algunas son raras. Otras no tanto. Puede ser. Igual es porque hago muchas. Quería tener un sitio donde contarlas. Pasa por aquí para conocerlas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diegoparrilla.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink:        /:year/:month/:day/:title/
+show_excerpts: true
 
 twitter_username: nubeblog
 github_username:  diegoparrilla

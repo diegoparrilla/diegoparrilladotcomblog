@@ -23,9 +23,9 @@ No invierto en lo que no entiendo o no comparte mis valores. Pero yendo al detal
 - Empresas que llevan al mundo online negocios offline.
 - Apuestas.
 - NFTs.
+- Soluciones verticales.
 - Startups sin un cofundador con un fuerte perfil tecnológico.
 - Startups que externalizan el desarrollo de producto.
-- Startups que no trabajen en inglés desde el día cero.
 - Startups con deudas.
 - Blockchain
 
@@ -48,7 +48,6 @@ Busco equipos con un fuerte componente tecnológico en fases iniciales. Que sepa
 
 Además de la inversión mi intención siempre es participar como asesor para ayudar en las etapas iniciales del proyecto. Ejemplos concretos:
 
-- Mi red de contactos: otros BAs, VCs, profesionales, etc.
 - Afinamiento del mensaje en los diferentes canales.
 - Implantación de procesos de medida del progreso.
 - Definición de KPIs.
@@ -58,7 +57,7 @@ Además de la inversión mi intención siempre es participar como asesor para ay
 - Búsqueda de perfiles profesionales.
 - Interim Product Manager.
 
-En definitiva, un Business Angel "que se moje". No estoy en el día a día, pero dedico esfuerzo y dedicación para tratar de ayudar a que la empresa salga adelante. ¿Has visto "Pulp Fiction"? ¿Sabes quién es el "[Señor Lobo](https://www.youtube.com/watch?v=rBYPNdOfcO0)"? Pues eso...
+Y para mí la más importante: mi red de contactos llena de otros BAs, VCs, profesionales, etc. En definitiva, un Business Angel "que se moje". No estoy en el día a día, pero dedico esfuerzo y dedicación para tratar de ayudar a que la empresa salga adelante. ¿Has visto "Pulp Fiction"? ¿Sabes quién es el "[Señor Lobo](https://www.youtube.com/watch?v=rBYPNdOfcO0)"? Pues eso...
 
 ## Empresas en las que he invertido
 
