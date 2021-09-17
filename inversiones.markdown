@@ -7,11 +7,11 @@ layout: page
 ## ¿En qué invierto?
 
 Mi visión de la inversión es de largo plazo. Da igual que sea una ronda semilla que acciones de una tecnológica en el NASDAQ. En ambos casos, busco ciertos patrones:
-- Hacen tecnología que otros tecnólogos quieren comprar.
+- Hacen tecnología que otros tecnólogos quieren **comprar**.
 - Crean productos que no pueden tener equivalente en el mundo offline.
-- Se encuentran al comienzo de la curva de crecimiento (obviamente una empresa semilla y una recién llegada al mercado están en diferentes fases del ciclo).
+- Entro cuando creo que **se encuentran al comienzo de la curva de crecimiento** (obviamente una empresa semilla y una recién llegada al mercado están en diferentes fases del ciclo).
 - Pagos recurrentes: modelo "as a Service".
-- Plataformas horizontales, visión global. No atadas a restricciones geográficas o jurisidiccionales.
+- **Plataformas horizontales, visión global.** No atadas a restricciones geográficas o jurisidiccionales.
 
 ## ¿En qué NO invierto?
 
@@ -31,7 +31,7 @@ No invierto en lo que no entiendo o no comparte mis valores. Pero yendo al detal
 
 ## ¿Qué tipo de proyectos busco?
 
-Busco equipos con un fuerte componente tecnológico en fases iniciales. Que sepan desarrollar productos que otros tecnólogos quieran usar con fruición. Con visión global. Detallemos:
+Busco equipos con un fuerte componente tecnológico en fases iniciales. Que sepan desarrollar **productos que otros tecnólogos quieran usar** con fruición. Con visión global. Detallemos:
 
 - Fundador/fundadora o equipo fundador con fuerte perfil tecnológico: ingeniería, matemáticas, física...
 - Equipo involucrado en las comunidades de desarrollo de las tecnologías que dominan.
@@ -61,10 +61,13 @@ Y para mí la más importante: mi red de contactos llena de otros BAs, VCs, prof
 
 ## Empresas en las que he invertido
 
+Estas son las empresas en las que he invertido o estoy invertido. 
+
 |Empresa   |Descripción|Ronda|Exit?|
 |---|---|---|---|
 |[Amplía Soluciones](https://www.amplia-iiot.com)|IoT industrial|Semilla-2003|No|
 |[Abiquo](https://www.abiquo.com/)|IaaS Management|Semilla-2008|Sí - 2011 (Participaciones vendidas al fondo)|
 |[StackOps](https://loogic.com/14619/)|IaaS platform|Semilla-2011|No - 2017 (Liquidación)|
 |[Apility.io](https://www.geekwire.com/2020/auth0-makes-first-ever-acquisition-launch-new-tools-protect-automated-cyberattacks/)|Cybersecurity platform|Semilla-2017|Sí - 2019 (100% empresa adquirida por [Auth0](https://auth0.com))|
-|[JOTELULU](https://jotelulu.com/)|Desktop as a Service|Sweat equity - 2021|No|
+|[JOTELULU](https://jotelulu.com/)|Desktop as a Service|Sweat equity/Serie A - 2021|No|
+
