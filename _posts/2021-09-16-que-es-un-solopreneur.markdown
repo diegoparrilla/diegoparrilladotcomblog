@@ -16,7 +16,11 @@ En cambio, el solopreneur ha tenido que crear con anterioridad un negocio. Una v
 
 ## El solopreneur en tecnología
 
-Es bastante común encontrar a informáticos que ofrecen sus capacidades a las empresas como autónomos o a través de micro-empresas. En el mundillo de los administradores de sistemas es algo bastante habitual. En el mundo de los desarrolladores ocurre, pero menos. 
+Es bastante común encontrar a informáticos que ofrecen sus capacidades a las empresas como autónomos o a través de micro-empresas. En el mundillo de los administradores de sistemas es algo bastante habitual. En el mundo de los desarrolladores ocurre, pero menos.
+
+![Jurassic Park](/assets/jurassicpark.png)<center><sub>No todos los negocios pueden mantenerse con plantillas tan reducidas.</sub></center>
+
+
 
 Pero estos dos casos no son los que me interesan. Empecemos por la inversión para empezar con un negocio completamente digital basado en software.
 
