@@ -26,6 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diegoparrilla.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink:        /:year/:month/:day/:title/
 show_excerpts: true
+author:
+  name: Diego
+  
+header_pages:
+  - sobremi.markdown
+  - inversiones.markdown
 
 twitter_username: nubeblog
 github_username:  diegoparrilla
