@@ -4,10 +4,6 @@ categories: emprendimiento
 layout: post
 ---
 
-**TL;DR: Pues como la propia palabra indica: solo + entrepreneur.**
-
-## Dime más, anda...
-
 Un *solopreneur* es una persona que pone en marcha y opera cualquier tipo de negocio por si mismo. Sin co-fundadores. Sin empleados. *Solo*. 
 
 Una duda común: ¿es un profesional liberal (abogados, peritos, contables, etc.) un solopreneur? Opino que no. Porque un profesional liberal ofrece sus servicios a cambio de una remuneración economica gracias a la obtención de un reconocimiento oficial del Estado de su capacidad. Además, la relación entre el cliente y el profesional liberal se hace mediante un contrato y un presupuesto.
