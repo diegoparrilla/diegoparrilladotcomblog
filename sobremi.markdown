@@ -11,7 +11,7 @@ En el mundo del emprendimiento puedo decir que he vivido: [he vendido mi startup
 
 Ahora me dedico a [ayudar a empresas tecnológicas a crecer](/inversiones). Soy un Business Angel novato, llevo una "L" enorme en la espalda. Busco empresas españolas en fase semilla que hagan tecnología para tecnólogos con una visión global.
 
-Dentro del mundillo del emprendimiento, estoy muy interesado en el concepto de [Solopreneur o Microempresa](/2021/09/16/que-es-un-solopreneur/) tecnológica (pincha los enlaces si quieres saber más), especialmente si tienen servicios XaaS.
+Dentro del mundillo del emprendimiento, estoy muy interesado en el concepto de [Solopreneur](/2021/09/16/que-es-un-solopreneur/) y Microempresa tecnológica (pincha los enlaces si quieres saber más), especialmente si tienen servicios XaaS.
 
 Si quieres contactarme para que invierta en tu empresa, por favor [lee esto primero](/inversiones). Si aun así quieres contactarme, aqui tienes diferentes métodos:
 
