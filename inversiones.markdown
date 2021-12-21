@@ -67,6 +67,7 @@ Estas son las empresas en las que he invertido o estoy invertido.
 |---|---|---|---|
 |[Amplía Soluciones](https://www.amplia-iiot.com)|IoT industrial|Semilla-2003|No|
 |[Abiquo](https://www.abiquo.com/)|IaaS Management|Semilla-2008|Sí - 2011 (Participaciones vendidas al fondo)|
+|[Napptive](https://napptive.com/)|PaaS Management|Sweat equity/Semilla - 2021|No|
 |[StackOps](https://loogic.com/14619/)|IaaS platform|Semilla-2011|No - 2017 (Liquidación)|
 |[Apility.io](https://www.geekwire.com/2020/auth0-makes-first-ever-acquisition-launch-new-tools-protect-automated-cyberattacks/)|Cybersecurity platform|Semilla-2017|Sí - 2019 (100% empresa adquirida por [Auth0](https://auth0.com))|
 |[JOTELULU](https://jotelulu.com/)|Desktop as a Service|Sweat equity/Serie A - 2021|No|
