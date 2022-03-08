@@ -4,12 +4,13 @@ categories: startup
 layout: post
 ---
 
-<p align="center">
-  <img src="https://threatjammer.com/threatjammer-risk-score.png">
-</p>
 
 ## ¿Por qué Threat Jammer?
 Llevo varios años haciendo productos de Threat Intel y muchos más desarrollando servicios en la nube consumidos a través de una API. ¿Por qué un nuevo servicio como [Threat Jammer](https://threatjammer.com)? ¿Qué tiene de especial? ¿Cómo empezó todo esto? ¿Y qué nos ofrecerá en el futuro?
+
+<p align="center">
+  <img src="https://threatjammer.com/threatjammer-risk-score.png">
+</p>
 
 ## ¿Cómo empezó todo?
 Después de dejar mi anterior empresa (que por cierto [adquirió mi anterior empresa de threat intel](https://www.geekwire.com/2020/auth0-makes-first-ever-acquisition-launch-new-tools-protect-automated-cyberattacks/)) pasé varios meses revisando estudios y papers de universidades. Tienen un enfoque más teórico y menos ejecutivo del problema de la detección de amenazas que el que solemos tener en la industria, pero las conclusiones son perfectamente válidas.
