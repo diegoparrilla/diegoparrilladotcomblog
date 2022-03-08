@@ -4,6 +4,10 @@ categories: startup
 layout: post
 ---
 
+<p align="center">
+  <img src="https://threatjammer.com/threatjammer-risk-score.png">
+</p>
+
 ## ¿Por qué Threat Jammer?
 Llevo varios años haciendo productos de Threat Intel y muchos más desarrollando servicios en la nube consumidos a través de una API. ¿Por qué un nuevo servicio como [Threat Jammer](https://threatjammer.com)? ¿Qué tiene de especial? ¿Cómo empezó todo esto? ¿Y qué nos ofrecerá en el futuro?
 
