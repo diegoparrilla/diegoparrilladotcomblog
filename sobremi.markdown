@@ -11,7 +11,9 @@ En el mundo del emprendimiento me ha pasado de todo un poco: [he vendido mi star
 
 Y fuera del emprendimiento, también he pasado por el mundo corporativo en una [gran tecnológica como Microsoft](https://www.microsoft.com).
 
-Ahora me dedico a [ayudar a empresas tecnológicas a crecer](/inversiones). Soy un Business Angel novato, llevo una "L" enorme en la espalda. Busco empresas españolas en fase semilla que hagan tecnología para tecnólogos con una visión global.
+Ahora me dedico a disfrutar de nueva aventura en el mundo de la tecnología, [Threat Jammer](https://threatjammer.com), una herramienta cloud de threat intelligence que me permite analizar y predecir amenazas.
+
+También me dedico [ayudar a empresas tecnológicas a crecer](/inversiones). Soy un Business Angel novato, llevo una "L" enorme en la espalda. Busco empresas españolas en fase semilla que hagan tecnología para tecnólogos con una visión global.
 
 Dentro del mundillo del emprendimiento, estoy muy interesado en el concepto de [Solopreneur](/2021/09/16/que-es-un-solopreneur/) y Microempresa tecnológica (pincha los enlaces si quieres saber más), especialmente si tienen servicios XaaS.
 
