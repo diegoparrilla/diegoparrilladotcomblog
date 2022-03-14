@@ -71,4 +71,5 @@ Estas son las empresas en las que he invertido o estoy invertido.
 |[StackOps](https://loogic.com/14619/)|IaaS platform|Semilla-2011|No - 2017 (Liquidación)|
 |[Apility.io](https://www.geekwire.com/2020/auth0-makes-first-ever-acquisition-launch-new-tools-protect-automated-cyberattacks/)|Cybersecurity platform|Semilla-2017|Sí - 2019 (100% empresa adquirida por [Auth0](https://auth0.com))|
 |[JOTELULU](https://jotelulu.com/)|Desktop as a Service|Sweat equity/Serie A - 2021|No|
+|[Arengu](https://arengu.com/)|No-code sign-up flows|Serie A - 2021|No|
 
